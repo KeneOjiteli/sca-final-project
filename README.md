@@ -1,6 +1,7 @@
 ### Deploying an Application on Kubernetes
 
 **Overview**
+
 A node app will be containerized and pushed to ACR, after which one Kubernetes cluster will be created on AKS and a deployment and a service will be created having 4 pod replicas via a manifest file.
 
 
