@@ -44,7 +44,7 @@ To run tests
 ```
 npm test
 ```
-**Application can be accessed via http://40.76.172.113/80**
+**Application can be accessed via http://40.76.172.113**
 
 ![](project-images/note-app-img/img2-5.png)
 
