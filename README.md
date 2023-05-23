@@ -44,5 +44,6 @@ To run tests
 ```
 npm test
 ```
+## Application can be accessed via http://40.76.172.113/80
 
 Visit [Deploying an Application on Kubernetes](https://dev.to/keneojiteli/deploying-an-application-on-kubernetes-3c27) to know more about this project.
