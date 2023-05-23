@@ -22,4 +22,27 @@ A node app will be containerized and pushed to ACR, after which one Kubernetes c
 - Code Editor or IDE - which will be used to write code that will be containerized.
 - Terraform installed - an IAC tool that will be used to provision infrastructure on Azure.
 
-Visit [this article](https://dev.to/keneojiteli/deploying-an-application-on-kubernetes-3c27) to know more about this project.
+## Install
+```
+git clone https://github.com/KeneOjiteli/sca-final-project
+```
+```
+cd notes-app
+```
+```
+npm install
+```
+
+## Run
+```
+node app.js
+```
+Visit http://localhost:3000 in your browser
+
+## Test
+To run tests
+```
+npm test
+```
+
+Visit [Deploying an Application on Kubernetes](https://dev.to/keneojiteli/deploying-an-application-on-kubernetes-3c27) to know more about this project.
